@@ -1,5 +1,6 @@
 ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg)
 
+## The essence of the given name Evije stands for compassion, creativity, reliability, generosity, loyalty and a love for domestic life
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
 
 - [Gatsby](https://www.gatsbyjs.com/)
